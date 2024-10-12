@@ -11,9 +11,9 @@ for moding Combat Master files
 Download as .zip and extract or:
 
 ```bash
-  git clone https://github.com/TangenteLakai/Combat-Master-Tool.git
-  cd Combat-Master-Tool
-  python file-copier.py
+git clone https://github.com/TangenteLakai/Combat-Master-Tool.git
+cd Combat-Master-Tool
+python file-copier.py
 ```
 
 
