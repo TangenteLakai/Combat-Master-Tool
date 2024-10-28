@@ -4,7 +4,6 @@
 for moding Combat Master files
 
 ![banner](https://raw.githubusercontent.com/TangenteLakai/Combat-Master-Tool/refs/heads/main/img/IMG_0080.jpg)
-https://github.com/TangenteLakai/Combat-Master-Tool/blob/3b9a2e39ab7de3900813947c8b68562441f9d1dc/img/IMG_0080.j
 
 ## Installation
 
