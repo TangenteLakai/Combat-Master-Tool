@@ -3,7 +3,7 @@
 
 for modding Combat Master Game Files
 
-![banner](https://raw.githubusercontent.com/TangenteLakai/Combat-Master-Tool/refs/heads/main/img/IMG_0080.jpg)
+![banner](https://raw.githubusercontent.com/TangenteLakai/Combat-Master-Tool/refs/heads/main/img/banner.jpeg)
 
 ## Installation
 
