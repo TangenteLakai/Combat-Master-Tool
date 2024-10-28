@@ -1,7 +1,7 @@
 
 # Combat Master Tool
 
-for moding Combat Master files
+for modding Combat Master Game Files
 
 ![banner](https://raw.githubusercontent.com/TangenteLakai/Combat-Master-Tool/refs/heads/main/img/IMG_0080.jpg)
 
