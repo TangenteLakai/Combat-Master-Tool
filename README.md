@@ -3,8 +3,8 @@
 
 for moding Combat Master files
 
-[Colorfull1](https://raw.githubusercontent.com/TangenteLakai/Combat-Master-Reshade-Presets/refs/heads/main/img/colorfull1.png)
-[banner](https://github.com/TangenteLakai/Combat-Master-Tool/blob/3b9a2e39ab7de3900813947c8b68562441f9d1dc/img/IMG_0080.jpg)
+![Colorfull1](https://raw.githubusercontent.com/TangenteLakai/Combat-Master-Reshade-Presets/refs/heads/main/img/colorfull1.png)
+https://github.com/TangenteLakai/Combat-Master-Tool/blob/3b9a2e39ab7de3900813947c8b68562441f9d1dc/img/IMG_0080.jpg
 
 ## Installation
 
