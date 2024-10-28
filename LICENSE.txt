@@ -1,0 +1,11 @@
+No-Fork Custom License
+
+All rights to this software are reserved by the owner of this Repository. 
+
+Permission is granted to view, download, and use this code solely for personal, non-commercial purposes. Redistribution, modification,
+rebranding, or re-release of this software, in any part or form, under any other name or organization,
+is strictly prohibited without prior written consent from the original author.
+
+This software may not be forked, cloned, or re-released, in whole or part, with or without modifications, without explicit written permission.
+
+Any unauthorized use, reproduction, or distribution of this software constitutes a violation of this license agreement.
