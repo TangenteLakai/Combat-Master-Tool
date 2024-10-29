@@ -7,14 +7,15 @@ for modding Combat Master Game Files
 
 ## Installation
 
-Download as .zip and extract or:
+[Download](https://www.mediafire.com/file/wg6uh8qqmeqn2ii/CombatMasterTool.exe/file)
+or:
 
 ```bash
 git clone https://github.com/TangenteLakai/Combat-Master-Tool.git
 cd Combat-Master-Tool
 
 pip install -r requirements.txt
-python file-copier.py
+python main.py
 ```
 
 
