@@ -1,7 +1,7 @@
 import sys
 from PyQt5 import QtWidgets
-from FileCopier import FileCopier
-from Tools import Tools
+from file_copier import FileCopier
+from tools import Tools
 
 class MainWindow(QtWidgets.QWidget):
     def __init__(self):
