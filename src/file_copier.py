@@ -94,11 +94,23 @@ class FileCopier(QtWidgets.QWidget):
             return
 
         for i, file_path in enumerate(self.file_paths):
+            # Determine destination directory based on file extension
+            file_extension = os.path.splitext(file_path)[1].lower()
+            target_dir = self.destination_dir  # Default target
+
+            if file_extension == ".resource":
+                if "SteamLibrary" in self.destination_dir:
+                    target_dir = os.path.join("SteamLibrary", "steamapps", "common", "Combat Master", "Data")
+                else:
+                    target_dir = os.path.join("Steam", "steamapps", "common", "Combat Master", "Data")
+
+            # Copy the file to the target directory
             try:
-                shutil.copy(file_path, self.destination_dir)
+                shutil.copy(file_path, target_dir)
             except Exception as e:
                 QtWidgets.QMessageBox.critical(self, "Error", f"Failed to copy {os.path.basename(file_path)}: {str(e)}")
                 return
+
         QtWidgets.QMessageBox.information(self, "Success", "All files successfully copied to your game files.")
 
     def update_modified_files(self):
